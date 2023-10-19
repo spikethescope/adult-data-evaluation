@@ -20,7 +20,7 @@ The following metrics will be used to evaluate the models:
 To use the code in this repository, follow these steps:
 
 Clone the repository to your local machine.
-Install the required dependencies using 'pip install -r requirements.txt'.
+Install the required dependencies.
 Run the following command to train and evaluate the models:
 python train_and_evaluate.py
 This will produce a report containing the ROC curves, cross-validation scores, and feature importance for both models.
